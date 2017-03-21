@@ -1,3 +1,7 @@
+ern_platform:
+    resource: "@ERNPlatformBundle/Resources/config/routing.yml"
+    prefix:   /
+
 app:
     resource: "@AppBundle/Controller/"
     type:     annotation

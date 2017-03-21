@@ -1,0 +1,4 @@
+services:
+#    ern_platform.example:
+#        class: ERN\PlatformBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
